@@ -1,5 +1,6 @@
 Step 1 : Before entering data 
-![Screenshot 2024-03-18 033709](https://github.com/r0h1t237/Assigments/assets/94473690/598eb01b-4b4c-40ed-95e5-4ae84c1f7aac)
+![Screenshot 2024-03-18 033356](https://github.com/r0h1t237/Assigments/assets/94473690/233a2480-e188-4979-b766-35b1c18bc720)
+
 
 Step 2 : After filling correct data
 ![Screenshot 2024-03-18 033709](https://github.com/r0h1t237/Assigments/assets/94473690/263e4fc3-eab4-468f-889d-be5320836682)
