@@ -1,0 +1,19 @@
+.separate {
+  width: 100%;
+  display: flex;
+  flex-direction:row ;
+  justify-content: space-between;
+}
+
+.rotate {
+  animation: rotation 1s infinite linear;
+}
+
+@keyframes rotation {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(359deg);
+  }
+}
